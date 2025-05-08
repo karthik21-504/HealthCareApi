@@ -2,10 +2,10 @@
 A simple RESTful API endpoints for managing patients,appointments and Authentication
 Built with Spring Boot,Spring Security,and in-memory Database(H2)
 
-1.[_System Requirements and Tools_](https://github.com/karthik21-504/HealthCareApi/README.md#system-requirements-and-tools)<br/>
-2.[_Setup and Installation_](https://github.com/karthik21-504/HealthCareApi/README.md#setup-and-installation-)<br/>
-3.[_API EndPoints_](https://github.com/karthik21-504/HealthCareApi/README.md#api-endpoints) <br/>
-4.[_Testing_](https://github.com/karthik21-504/HealthCareApi/README.md#testing)<br/>
+1.[_System Requirements and Tools_](https://github.com/karthik21-504/HealthCareApi#system-requirements-and-tools)<br/>
+2.[_Setup and Installation_](https://github.com/karthik21-504/HealthCareApi#setup-and-installation-)<br/>
+3.[_API EndPoints_](https://github.com/karthik21-504/HealthCareApi#api-endpoints) <br/>
+4.[_Testing_](https://github.com/karthik21-504/HealthCareApi#testing)<br/>
 
 ## **System Requirements and Tools**<br/>
 _Hardware Requirements_ <br/>
