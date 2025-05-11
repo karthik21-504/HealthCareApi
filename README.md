@@ -59,6 +59,12 @@ _mvn clean install<br/>
 mvn spring-boot:run<br/>_
 <br/>
 
+_Containerization Application_
+To containerize the application hook point would be Dockerfile and execute <code>docker build -t mySpringApp .</code><br/>
+To run the container on your desired port <code>docker run -p 8080:8080 my-spring-app</code><br/>
+To automate the application in CI/CD pipeline docker compose file can be used for production ready application <code>docker compose up -d</code>
+
+
 
 ## **API EndPoints**<br/>
 
@@ -100,3 +106,5 @@ Test endpoints with Postman:<br/>
 <br/>
 Auth Token: Include in Headers → Authorization: Bearer <token>.<br/>
 Sample Requests: Check examples/ folder.<br/>
+
+
